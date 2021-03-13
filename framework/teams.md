@@ -33,6 +33,16 @@ Because the community is growing we see these groups growing and improving, and 
 * Calvo - Outreach Officer [Twitter](https://twitter.com/Calvo517) \| [Telegram](https://t.me/CaLvo517)
 * Divo Cooga - Outreach Officer - [Twitter](https://twitter.com/dvoriano) \| [Telegram](https://t.me/IamVet)
 
+
+
+
+
+
+
+
+
+
+
 ## DigiByte Foundation
 
 _The DigiByte Foundation is a volunteer managed organization that operates in a non-profit way. They protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world._

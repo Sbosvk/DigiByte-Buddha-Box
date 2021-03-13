@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Wiki](README.md)
+* [Welcome](README.md)
 * [Introduction](introduction.md)
 * [Technical Specifications](digibyte-technical-specifications.md)
 
