@@ -16,7 +16,9 @@ You can add rich-text to the editor, but also by using markdown.
 
 Markdown is a popular markup syntax that's widely known for its simplicity and popularity on the Web. GitBook supports it as a keyboard-friendly way to write rich and structured text.
 
-​🧙♂ **Tips:** You can learn more about Markdown itself, by visiting [http://commonmark.org/help/](http://commonmark.org/help/). If you find a feature of Markdown that is not supported by GitBook, please open a feature request on [Canny](https://gitbook.canny.io/). 👋
+{% hint style="info" %}
+🧙♂ **Tips:** You can learn more about Markdown itself, by visiting [http://commonmark.org/help/](http://commonmark.org/help/). If you find a feature of Markdown that is not supported by GitBook, please open a feature request on [Canny](https://gitbook.canny.io/). 👋
+{% endhint %}
 
 ## ​✍ Text formatting <a id="text-formatting"></a>
 
@@ -54,7 +56,15 @@ Hints can simply be inserted from the UI by clicking on the control palette. You
 
 When running the GitHub syntax in the markdown file, you can write:
 
-{% hint style="info" %} Hello world {% endhint %}
+{% hint style="info" %}
+{% hint style="info" %}  
+Hello world   
+{% endhint %}
+{% endhint %}
 
-​🧙♂ **Tips:** "styles" translate to the different hint types : info, success, danger & warning.
+{% hint style="info" %}
+🧙♂ **Tips:** "styles" translate to the different hint types : info, success, danger & warning.
+{% endhint %}
+
+
 
