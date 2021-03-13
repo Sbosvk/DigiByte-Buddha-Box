@@ -8,8 +8,6 @@ description: >-
 
 ## Prerequisites
 
-### Hardware
-
 |  | Minimum \| Recommended |
 | :--- | :--- |
 | RAM | 4GB minimum \| 8GB recommended |
