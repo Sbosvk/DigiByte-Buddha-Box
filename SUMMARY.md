@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Wiki](README.md)
+* [Introduction](introduction.md)
 * [Technical Specifications](digibyte-technical-specifications.md)
 
 ## Framework
