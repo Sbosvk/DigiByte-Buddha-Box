@@ -161,9 +161,9 @@ _DGBAT is a community-driven outreach initiative. They are led by a core team, w
 
 \*\*\*\*[![](../.gitbook/assets/twitter.png) **Twitter**](https://twitter.com/DGBAT_Official)\*\*\*\*
 
-\*\*\*\*[![](../.gitbook/assets/dgbat.png) **Website**](https://dgbat.org)\*\*\*\*
-
 \*\*\*\*[![](../.gitbook/assets/youtube.png) **YouTube**](https://www.youtube.com/channel/UCwNYXK1m7mNzu7UFP2BjYyA)\*\*\*\*
+
+\*\*\*\*[![](../.gitbook/assets/dgbat.png) **Website**](https://dgbat.org)\*\*\*\*
 
 
 
