@@ -9,39 +9,61 @@ _Because DigiByte is not a company, marketing is being produced by different mem
 _Groups like DGBAT \(DigiByte Awareness Team\) & the DigiByte Foundation \(DF\) are a blessing for DigiByte.  
 Because the community is growing we see these groups growing and improving, and more of these working groups will appear in the future._
 
+\_\_
+
+\_\_
+
 ### _Developers_
 
-* Jared Tate - Core Developer - [Twitter](https://twitter.com/jaredctate) \| [Telegram](https://t.me/JaredTate) \| [LinkedIn](https://www.linkedin.com/in/jaredctate) \| [Email](mailto:jared@digibyte.io) \| [Github](https://github.com/digibyte)
-* Gary Mckee \(WB\) - Core Developer - [Twitter](https://twitter.com/DigibyteEso) \| [Telegram](https://t.me/Esoteric1zm)
-* Frederick \(GTO90\) - Core Developer - [Telegram](https://t.me/GTO90) \| [Github](https://github.com/gto90)
-* MentalCollatz - Core Developer - [Github](https://github.com/MentalCollatz)
-* Noah Seidman - Android specialist - [Twitter](https://twitter.com/noahseidman) \| [Telegram](https://t.me/NoahSeidman) \| [Email](mailto:noah@digibyte.io) \| [Github](https://github.com/nseidm1)
-* Yoshi Jäger - iOS & Core Developer, UX-Designer, Mobile- & FullStack-Developer. Machine learning and blockchain expert. Master in C/C++, VanillaJS, Swift, Bourne/Bash **-** [Twitter](https://twitter.com/YoshiJaeger) **\|** [Telegram](https://t.me/YoshiJaeger) \| [Github](https://github.com/SmartArray)
-* Thomas Ploentzke - Software Developer, currently mostly \(but not only\) for application in macOS and iOS environment. Skills in all macOS and iOS core functionalities, including persistency, audio, bluetooth and uikit.[Twitter](https://twitter.com/ploenne) \| [Telegram](https://t.me/ploenne) \| [LinkedIn](https://www.linkedin.com/in/thomas-ploentzke-4205b465) \| [Github](https://github.com/ploenne)
+* Jared Tate - Core Developer ****[![](../.gitbook/assets/twitter.png)](https://twitter.com/jaredctate) [![](../.gitbook/assets/telegram.png)](https://t.me/JaredTate) [![](../.gitbook/assets/linkedin.png)](https://www.linkedin.com/in/jaredctate) [![](../.gitbook/assets/email.png)](mailto:jared@digibyte.io) [![](../.gitbook/assets/github-120.png)](https://github.com/digibyte)  
+* Gary Mckee \(WB\) - Core Developer [![](../.gitbook/assets/twitter.png)](https://twitter.com/DigibyteEso) [![](../.gitbook/assets/telegram.png)](https://t.me/Esoteric1zm)  
+* Frederick \(GTO90\) - Core Developer [![](../.gitbook/assets/telegram.png)](https://t.me/GTO90) [![](../.gitbook/assets/github-120.png)](https://github.com/gto90)  
+* MentalCollatz - Core Developer [![](../.gitbook/assets/github-120.png)](https://github.com/MentalCollatz)  
+* Noah Seidman - Android specialist [![](../.gitbook/assets/twitter.png)](https://twitter.com/noahseidman)[![](../.gitbook/assets/telegram.png)](https://t.me/NoahSeidman)[![](../.gitbook/assets/email.png)](mailto:noah@digibyte.io)[![](../.gitbook/assets/github-120.png)](https://github.com/nseidm1)  
+* Yoshi Jäger - iOS & Core Developer, UX-Designer, Mobile- & FullStack-Developer. Machine learning and blockchain expert. Master in C/C++, VanillaJS, Swift, Bourne/Bash ****[![](../.gitbook/assets/twitter.png)](https://twitter.com/YoshiJaeger)[![](../.gitbook/assets/telegram.png)](https://t.me/YoshiJaeger) [![](../.gitbook/assets/github-120.png)](https://github.com/SmartArray)  
+* Thomas Ploentzke - Software Developer, currently mostly \(but not only\) for application in macOS and iOS environment. Skills in all macOS and iOS core functionalities, including persistency, audio, bluetooth and uikit. [![](../.gitbook/assets/twitter.png)](https://twitter.com/ploenne) [![](../.gitbook/assets/telegram.png)](https://t.me/ploenne) [![](../.gitbook/assets/linkedin.png)](https://www.linkedin.com/in/thomas-ploentzke-4205b465) [![](../.gitbook/assets/github-120.png)](https://github.com/ploenne) 
+
+
+
+
 
 ### Outreach
 
-* Ammar - Community Manager\| Outreach Officer - [Twitter](https://twitter.com/dgb_ycagel) \| [Telegram](https://t.me/ycagel) \| [Email](mailto:ammar@digibyte.io)
-* Nigel - Community Manager - [Twitter](https://twitter.com/NigelDigiByte) \| [Telegram](https://t.me/TheUnamatrix)
-* Glenn - Outreach Officer - [Telegram](https://t.me/glenngie) \| [Email](mailto:glenn@digibyte.io)
-* Murat Akyurt - Web Designer \| Outreach Officer - [Twitter](https://twitter.com/muakyurt) \| [Telegram](https://t.me/makyurt)
-* Jin - Outreach Officer - [Email](mailto:jim@digibyte.io)
-* Josiah Spackman - Chief Fun Officer of DigiByte Incorporated [Twitter](https://twitter.com/dgb_chilling) \| [Telegram](https://t.me/Chilling_Silence) \| [Email](mailto:josiah@digibyte.io) \| [Github](https://github.com/ChillingSilence)
-* Batyr - Outreach Officer - [Twitter](https://twitter.com/batyr_hajy) \| [Telegram](https://t.me/dgb_tm)
-* Damir Cengic - Designer - [Twitter](https://twitter.com/cengic_damir) \| [Telegram](https://t.me/DamirCengic)
-* Ten Wang - Outreach Officer - [Telegram](https://t.me/tengwang)
-* Calvo - Outreach Officer [Twitter](https://twitter.com/Calvo517) \| [Telegram](https://t.me/CaLvo517)
-* Divo Cooga - Outreach Officer - [Twitter](https://twitter.com/dvoriano) \| [Telegram](https://t.me/IamVet)
+* Ammar - Community Manager\| Outreach Officer __[![](../.gitbook/assets/twitter.png)](https://twitter.com/dgb_ycagel) [![](../.gitbook/assets/telegram.png)](https://t.me/ycagel) [![](../.gitbook/assets/email.png)](mailto:ammar@digibyte.io)  
+* Nigel - Community Manager [![](../.gitbook/assets/twitter.png)](https://twitter.com/NigelDigiByte) [![](../.gitbook/assets/telegram.png)](https://t.me/TheUnamatrix)  
+* Glenn - Outreach Officer [![](../.gitbook/assets/telegram.png)](https://t.me/glenngie) [![](../.gitbook/assets/email.png)](mailto:glenn@digibyte.io)  
+* Murat Akyurt - Web Designer \| Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/muakyurt) [![](../.gitbook/assets/telegram.png)](https://t.me/makyurt)  
+* Jin - Outreach Officer [![](../.gitbook/assets/email.png)](mailto:jim@digibyte.io)  
+* Josiah Spackman - Chief Fun Officer of DigiByte Incorporated [![](../.gitbook/assets/twitter.png)](https://twitter.com/dgb_chilling) [![](../.gitbook/assets/telegram.png)](https://t.me/Chilling_Silence) [![](../.gitbook/assets/email.png)](mailto:josiah@digibyte.io) [![](../.gitbook/assets/github-120.png)](https://github.com/ChillingSilence)  
+* Batyr - Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/batyr_hajy) [![](../.gitbook/assets/telegram.png)](https://t.me/dgb_tm)  
+* Damir Cengic - Designer [![](../.gitbook/assets/twitter.png)](https://twitter.com/cengic_damir) [![](../.gitbook/assets/telegram.png)](https://t.me/DamirCengic)  
+* Ten Wang - Outreach Officer [![](../.gitbook/assets/telegram.png)](https://t.me/tengwang)  
+* Calvo - Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/Calvo517) [![](../.gitbook/assets/telegram.png)](https://t.me/CaLvo517)  
+* Divo Cooga - Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/dvoriano) [![](../.gitbook/assets/telegram.png)](https://t.me/IamVet) 
 
 
 
 
 
+### Social media
 
+![](../.gitbook/assets/facebook.png) [**Facebook**](https://www.facebook.com/digibytecoin/)\*\*\*\*
 
+\*\*\*\*![](../.gitbook/assets/linkedin.png) ****[**LinkedIn**](https://www.linkedin.com/company/4873314/)\*\*\*\*
 
+\*\*\*\*![](../.gitbook/assets/twitter.png) ****[**Twitter**](https://twitter.com/DigiByteCoin)\*\*\*\*
 
+\*\*\*\*![](../.gitbook/assets/reddit.png) ****[**Reddit**](https://www.reddit.com/r/Digibyte/)\*\*\*\*
 
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
 
 ## DigiByte Foundation
 
@@ -49,31 +71,45 @@ _The DigiByte Foundation is a volunteer managed organization that operates in a 
 
 ### Board
 
+
+
 #### Chair
 
--Hans Koning
+#### -Hans Koning <a id="foundation-hans-koning"></a>
 
 Drs. Koning has been in the forefront of nascent technologies for more than 25 years.
 
 Either as advisor, investor, or as observer, ever since the birth of internet he is committed to learn and guide new technologies in finding its way into society and businesses from the non-technical perspective. He finds it important what technology can do socially, economically and in terms of regulation, rather than how it works. This resulted in a long track record of helping young companies grow and succeed in all corners of the world. He prides himself in having achieved a unique combination of hands-on experience from being involved in the blockchain world and crypto community for 5 years, and on the other hand academic research and insights from his research PhD he is currently pursuing.
 
-[LinkedIn](https://www.linkedin.com/in/hanskoningttim/) \| [Twitter](https://www.twitter.com/hanskoning) \| [Email](mailto:hanskoning@digibytefoundation.io)
+[![](../.gitbook/assets/linkedin.png)](https://www.linkedin.com/in/hanskoningttim/) [![](../.gitbook/assets/twitter.png)](https://www.twitter.com/hanskoning) [![](../.gitbook/assets/email.png)](mailto:hanskoning@digibytefoundation.io) 
+
+
 
 #### Secretary & Vice-Chair
 
--Rudy Bouwman
+#### -Rudy Bouwman <a id="foundation-rudy-bouwman"></a>
 
 Rudy is working in the Information Technology for more than 30 years. He has an education in Information Technology and finished a study Senior Management at the Institute of Social Sciences in The Netherlands. Starting as a computer engineer, Rudy developed his career in different management positions and the last 20 years he has a position as shareholder and Director in a IT Maintenance company. In 2017 Rudy started learning about Blockchain Technology and was convinced about the revolutionary impact on society and wanted to play a role in there. Rudy has applied his knowledge and business experiences as core member of DigiByte by reaching out to companies, building and maintaining international relations, and looking for integration opportunities and development of real-world use cases for DigiByte. Rudy was also involved as CMO with the creation of the DigiByte Awareness Team back in May 2018.
 
-[LinkedIn](https://www.linkedin.com/in/rudybouwman/) \| [Twitter](https://www.twitter.com/RudyBouwman) \| [Email](mailto:rudybouwman@digibytefoundation.io)
+[![](../.gitbook/assets/linkedin.png)](https://www.linkedin.com/in/rudybouwman/) [![](../.gitbook/assets/twitter.png)](https://www.twitter.com/RudyBouwman) [![](../.gitbook/assets/email.png)](mailto:rudybouwman@digibytefoundation.io) 
+
+
 
 #### Treasurer
 
--Rutger Krijnen
+#### -Rutger Krijnen <a id="foundation-rutger-krijnen"></a>
 
 Rutger is a 20 years experienced Program Manager with a demonstrated history of success in IT and Telecommunications industry. He is a strong operations professional skilled in Project Management, PRINCE2, Agile/Scrum, Interim Management, ITIL, IT Service Management, and Change Management. Broad knowledge of Business Processes and IT. Seasoned in successfully managing multiple mergers and acquisitions, migrations, transformations of IT landscapes with the business goals in mind, Rutger is used to work with and to integrate different cultures in the workspace and vendors. He is very active in the block-chain space and within the DigiByte community specifically. And likes to engage with people and organizations towards the goal of creating awareness and acceptance of DigiByte.
 
-[LinkedIn](https://www.linkedin.com/in/rutger-krijnen-a503895/) \| [Twitter](https://www.twitter.com/justgoodstuff11) \| [Email](mailto:rutgerkrijnen@digibytefoundation.io)
+[![](../.gitbook/assets/linkedin.png)](https://www.linkedin.com/in/rutger-krijnen-a503895/) [![](../.gitbook/assets/twitter.png)](https://www.twitter.com/justgoodstuff11) [![](../.gitbook/assets/email.png)](mailto:rutgerkrijnen@digibytefoundation.io) 
+
+
+
+
+
+
+
+
 
 ## Digibyte Awareness Team \(DGBAT\)
 
