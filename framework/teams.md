@@ -21,6 +21,10 @@ Because the community is growing we see these groups growing and improving, and 
 
 ## DigiByte Core team
 
+ __
+
+![](../.gitbook/assets/dgb-symbol.png)
+
 _The Core Development team is focused solely on the development of the project & the Core Outreach team is solely focused on outreach together with the DigiByte Awareness team._
 
 \_\_
