@@ -51,9 +51,9 @@ Because the community is growing we see these groups growing and improving, and 
 
 \*\*\*\*![](../.gitbook/assets/linkedin.png) ****[**LinkedIn**](https://www.linkedin.com/company/4873314/)\*\*\*\*
 
-\*\*\*\*![](../.gitbook/assets/twitter.png) ****[**Twitter**](https://twitter.com/DigiByteCoin)\*\*\*\*
-
 \*\*\*\*![](../.gitbook/assets/reddit.png) ****[**Reddit**](https://www.reddit.com/r/Digibyte/)\*\*\*\*
+
+\*\*\*\*![](../.gitbook/assets/twitter.png) ****[**Twitter**](https://twitter.com/DigiByteCoin)\*\*\*\*
 
 \*\*\*\*
 
