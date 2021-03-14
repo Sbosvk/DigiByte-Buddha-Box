@@ -1,13 +1,27 @@
+---
+description: >-
+  As a decentralized community, DigiByte is dependent on volunteers, dedicating
+  time & resources to the growth of the community.
+---
+
 # Community teams
 
-## DigiByte Core team
 
-_The Core Development team is focused solely on the development of the project & the Core Outreach team is solely focused on outreach together with the DigiByte Awareness team._
+
+_Having been a decentralized community for seven years has resulted in a self-sufficient, self-improving community with dedicated people from all over the world. Given the open nature of the community, where most conversations are made in public channels, a culture of integrity, security and caution has emerged, many eyes keep people honest._
+
+_Community members look out for each other, if any foul play is called out the rest of the community acts quick and with decisiveness, checking authenticity of the claim & making sure foul play, if identified, is not allowed to continue undisrupted._
 
 _Because DigiByte is not a company, marketing is being produced by different members of the DigiByte Community. Some are organized in groups and using their skills to create awareness and encourage adoption._ 
 
 _Groups like DGBAT \(DigiByte Awareness Team\) & the DigiByte Foundation \(DF\) are a blessing for DigiByte.  
 Because the community is growing we see these groups growing and improving, and more of these working groups will appear in the future._
+
+
+
+## DigiByte Core team
+
+_The Core Development team is focused solely on the development of the project & the Core Outreach team is solely focused on outreach together with the DigiByte Awareness team._
 
 \_\_
 
