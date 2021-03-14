@@ -45,7 +45,7 @@ Because the community is growing we see these groups growing and improving, and 
 
 
 
-### Social media
+### Socials
 
 ![](../.gitbook/assets/facebook.png) [**Facebook**](https://www.facebook.com/digibytecoin/)\*\*\*\*
 
@@ -55,7 +55,7 @@ Because the community is growing we see these groups growing and improving, and 
 
 \*\*\*\*![](../.gitbook/assets/twitter.png) ****[**Twitter**](https://twitter.com/DigiByteCoin)\*\*\*\*
 
-\*\*\*\*
+\*\*\*\*[![](../.gitbook/assets/dgb-symbol.png) **Website**](https://DigiByte.io)\*\*\*\*
 
 \*\*\*\*
 
@@ -65,7 +65,11 @@ Because the community is growing we see these groups growing and improving, and 
 
 \*\*\*\*
 
-## DigiByte Foundation
+\*\*\*\*
+
+## The DigiByte Foundation
+
+![](../.gitbook/assets/dgbfoundation.png)
 
 _The DigiByte Foundation is a volunteer managed organization that operates in a non-profit way. They protect and promote the true principles of decentralization and empower DigiByte and its community to establish and maintain a sustainable decentralized world._
 
@@ -107,15 +111,43 @@ Rutger is a 20 years experienced Program Manager with a demonstrated history of 
 
 
 
+### Socials
+
+[![](../.gitbook/assets/facebook.png) **Facebook**](https://www.facebook.com/digibytecoin/)\*\*\*\*
+
+[![](../.gitbook/assets/twitter.png) **Twitter**](https://twitter.com/dgb_foundation)\*\*\*\*
+
+\*\*\*\*[![](../.gitbook/assets/linkedin.png) **LinkedIn**](https://www.linkedin.com/in/digibytefoundation/)\*\*\*\*
+
+\*\*\*\*
 
 
 
 
-## Digibyte Awareness Team \(DGBAT\)
+
+
+
+
+
+## Digi**B**yte Awareness Team \(DGBAT\)
+
+![](../.gitbook/assets/dgbat.png)
 
 _DGBAT is a community-driven outreach initiative. They are led by a core team, who manage teams across social media, outreach, education, developers and writers. They aim to promote the DigiByte blockchain through education, outreach and marketing campaigns._
 
-\_\_
+ __
+
+### Socials
+
+[![](../.gitbook/assets/email.png) **Email**](mailto:info@dgbat.org)\*\*\*\*
+
+\*\*\*\*[🛒 **DGBAT Merch**](https://www.cryptobantam.com/vendor/dgbat/)\*\*\*\*
+
+\*\*\*\*[![](../.gitbook/assets/twitter.png) **Twitter**](https://twitter.com/DGBAT_Official)\*\*\*\*
+
+\*\*\*\*[![](../.gitbook/assets/dgbat.png) **Website**](https://dgbat.org)\*\*\*\*
+
+\*\*\*\*[![](../.gitbook/assets/youtube.png) **YouTube**](https://www.youtube.com/channel/UCwNYXK1m7mNzu7UFP2BjYyA)\*\*\*\*
 
 
 
