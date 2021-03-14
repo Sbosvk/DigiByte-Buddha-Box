@@ -48,7 +48,7 @@ _The Core Development team is focused solely on the development of the project &
 * Glenn - Outreach Officer [![](../.gitbook/assets/telegram.png)](https://t.me/glenngie) [![](../.gitbook/assets/email.png)](mailto:glenn@digibyte.io)  
 * Murat Akyurt - Web Designer \| Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/muakyurt) [![](../.gitbook/assets/telegram.png)](https://t.me/makyurt)  
 * Jin - Outreach Officer [![](../.gitbook/assets/email.png)](mailto:jim@digibyte.io)  
-* Josiah Spackman - Chief Fun Officer of DigiByte Incorporated [![](../.gitbook/assets/twitter.png)](https://twitter.com/dgb_chilling) [![](../.gitbook/assets/telegram.png)](https://t.me/Chilling_Silence) [![](../.gitbook/assets/email.png)](mailto:josiah@digibyte.io) [![](../.gitbook/assets/github-120.png)](https://github.com/ChillingSilence)  
+* Josiah Spackman - Chief Fun Officer of DigiByte Incorporated [![](../.gitbook/assets/twitter.png)](https://twitter.com/dgb_chilling) [![](../.gitbook/assets/telegram.png)](https://t.me/Chilling_Silence) [![](../.gitbook/assets/email.png)](mailto:josiah@digibyte.io) [![](../.gitbook/assets/github-120.png)](https://github.com/ChillingSilence) [![](../.gitbook/assets/youtube.png)](https://www.youtube.com/c/JosiahSpackmanDigiByte/)  
 * Batyr - Outreach Officer [![](../.gitbook/assets/twitter.png)](https://twitter.com/batyr_hajy) [![](../.gitbook/assets/telegram.png)](https://t.me/dgb_tm)  
 * Damir Cengic - Designer [![](../.gitbook/assets/twitter.png)](https://twitter.com/cengic_damir) [![](../.gitbook/assets/telegram.png)](https://t.me/DamirCengic)  
 * Ten Wang - Outreach Officer [![](../.gitbook/assets/telegram.png)](https://t.me/tengwang)  
