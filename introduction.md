@@ -2,7 +2,7 @@
 
 ![](.gitbook/assets/192x192.png)
 
-[DigiByte](https://digibyte.io/)\(DGB\) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) global [UTXO](https://en.wikipedia.org/wiki/Unspent_transaction_output) [PoW](https://en.wikipedia.org/wiki/Proof_of_work) based [blockchain](https://en.wikipedia.org/wiki/Blockchain) \(just like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)\) with a focus on [Cyber Security](https://dgbwiki.com/index.php?title=DigiByte_CyberSecurity_Solutions), [DigiAssets](https://dgbwiki.com/index.php?title=DigiAssets), [Payments](https://dgbwiki.com/index.php?title=Payment_Processors) & Secure communications technologies.
+[DigiByte](https://digibyte.io/)\(DGB\) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) global [UTXO](https://en.wikipedia.org/wiki/Unspent_transaction_output) [PoW](https://en.wikipedia.org/wiki/Proof_of_work) based [blockchain](https://en.wikipedia.org/wiki/Blockchain) \(just like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)\) with focus on cyber security, digital assets, [payments](ecosystem/payment-gateways.md) & secure communications technologies.
 
 The [DigiByte blockchain](https://digibyte.io/#blockchain) was developed in 2013 and released in [January 2014](https://bitcointalk.org/index.php?topic=408268.0) by [Jared Tate](https://dgbwiki.com/index.php?title=Original_author%28s%29) \(Creator & Founder of DigiByte\) with an [open-source protocol](https://osprotocol.com/).
 

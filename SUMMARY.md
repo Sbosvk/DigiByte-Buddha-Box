@@ -11,6 +11,10 @@
 * [Community teams](framework/teams.md)
 * [Blockchain layers](framework/blockchain-layers.md)
 
+## Ecosystem
+
+* [Payment gateways](ecosystem/payment-gateways.md)
+
 ## Guides
 
 * [Integration Guide](guides/integration-guide.md)
