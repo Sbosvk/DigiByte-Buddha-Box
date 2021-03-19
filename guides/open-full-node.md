@@ -11,7 +11,7 @@ description: >-
 |  | Minimum \| Recommended |
 | :--- | :--- |
 | RAM | 4GB minimum \| 8GB recommended |
-| Allocation space | 40GB minimum \| 200GB recommended |
+| Allocation space | 40GB minimum |
 | Internet | Decent speed & unlimited bandwidth recommended |
 
 
@@ -581,8 +581,8 @@ _Without the port forwarded you can not relay the blockchain to other nodes and 
 
 ### Find your LAN IP <a id="get-lan-ip"></a>
 
-A local area network \(LAN\) IP, is the IP address your network devices use to communicate with each other in your local environment, e.g those devices connected to your router.  
-You will need this IP address in order to tell your router to forward network traffic coming in on port `12024`.
+A local area network \(LAN\) IP, is the IP address your network devices use to communicate with each other in their local environment, e.g those devices connected to your router.  
+We're going to tell the router to forward the incoming traffic of port `12024` to this IP address.
 
 _**Select your OS from the tabs below.**_
 
@@ -662,6 +662,26 @@ ipconfig
 The address will be the IPv4 address in the listed output.
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+### Forward port
+
+1. Go to your routers local IP address in a web browser and login with sufficient privileges.
+2. Select the **TCP** protocol.
+3. Enter port `12024` into the port field.
+4. Enter your DigiByte Core open full node's LAN IP address into the IP address field.
+5. Save your changes.
+
+
+
+There's a lot of different routers with a lot of different user interfaces. It is very hard to make a generic guide for a subject like port forwarding, fortunately enough portforward.com offers guides for some of the most common brands.
+
+If you don't know how to port forward your router, try finding your router brand and model on the link below.
+
+{% embed url="https://portforward.com/router.htm" %}
 
 
 

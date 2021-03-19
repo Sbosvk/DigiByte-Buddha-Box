@@ -17,6 +17,9 @@
 
 ## Guides
 
-* [Integration Guide](guides/integration-guide.md)
 * [Run a open full node](guides/open-full-node.md)
+
+## Developers
+
+* [Integration Guide](developers/integration-guide.md)
 
