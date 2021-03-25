@@ -19,7 +19,7 @@ DigiByte mining is also highly distributed and the most decentralized PoW in the
 Finally, we want to welcome you to the global DigiByte community, and to thank you for taking the time to integrate with DigiByte. Our vast community is incredibly passionate about the DigiByte blockchain and we are sure that you will be too.  
 
 
-_Download the .pdf file below, or view it your browser on the_ [_DigiByte community website_](https://digibyte.io/docs/integrationguide.pdf)_._
+_Download the .pdf file below, or view it your browser on the_ [_DigiByte community website_](https://digibyte.org/docs/integrationguide.pdf)_._
 
 {% file src="../.gitbook/assets/integrationguide.pdf" caption="DigiByte Integration Guide V1.6" %}
 
