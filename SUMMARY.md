@@ -10,6 +10,7 @@
 * [Original author](framework/jared-tate.md)
 * [Community teams](framework/teams.md)
 * [Blockchain layers](framework/blockchain-layers.md)
+* [DigiAssets](framework/digiassets.md)
 
 ## Ecosystem
 
@@ -26,4 +27,8 @@
 ## Contribute
 
 * [Wiki](contribute/wiki.md)
+
+## Articles
+
+* [DigiAssets](articles/digiassets.md)
 
