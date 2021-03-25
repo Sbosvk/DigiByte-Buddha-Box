@@ -4,7 +4,7 @@
 
 [DigiByte](https://digibyte.io/)\(DGB\) is a [decentralized](https://en.wikipedia.org/wiki/Decentralization) global [UTXO](https://en.wikipedia.org/wiki/Unspent_transaction_output) [PoW](https://en.wikipedia.org/wiki/Proof_of_work) based [blockchain](https://en.wikipedia.org/wiki/Blockchain) \(just like [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)\) with focus on cyber security, digital assets, [payments](ecosystem/payment-gateways.md) & secure communications technologies.
 
-The [DigiByte blockchain](https://digibyte.io/#blockchain) was developed in 2013 and released in [January 2014](https://bitcointalk.org/index.php?topic=408268.0) by [Jared Tate](https://dgbwiki.com/index.php?title=Original_author%28s%29) \(Creator & Founder of DigiByte\) with an [open-source protocol](https://osprotocol.com/).
+The [DigiByte blockchain](https://digibyte.org#blockchain) was developed in 2013 and released in [January 2014](https://bitcointalk.org/index.php?topic=408268.0) by [Jared Tate](https://dgbwiki.com/index.php?title=Original_author%28s%29) \(Creator & Founder of DigiByte\) with an [open-source protocol](https://osprotocol.com/).
 
 Although based on [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin), adjustments in the code allow for improved functionality, including [15-second block time](https://dgbwiki.com/index.php?title=DigiSpeed), [real-time difficulty adjustment](https://dgbwiki.com/index.php?title=DigiShield) and improved security.
 
